@@ -32,7 +32,7 @@ function Portfolio() {
         <div className="portfolio">
             <header className="header">
                 <div id="header">
-                    <h1>Hello, I'm Sarah Davila.</h1>
+                    <h1>Hello, I am Ryan Sarath.</h1>
                 </div>
                 <nav id="nav">
                     <ul>
