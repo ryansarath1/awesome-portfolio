@@ -61,13 +61,13 @@ function Portfolio() {
                 <nav id="footernav">
                     <ul>
                         <li>
-                            <a href="mailto:sarahjdavila210@gmail.com">sarahjdavila210@gmail.com</a>
+                            <a href="sarathryan@yahoo.com">sarathryan@yahoo.com</a>
                         </li>
                         <li>
-                            <a href="https://github.com/sdavila210">GitHub</a>
+                            <a href="https://github.com/ryansarath1">GitHub</a>
                         </li>
                         <li>
-                            <a href="https://www.linkedin.com">LinkedIn</a>
+                            <a href="https://www.linkedin.com/in/ryan-sarath-6493a02a7/">LinkedIn</a>
                         </li>
                     </ul>
                 </nav>
