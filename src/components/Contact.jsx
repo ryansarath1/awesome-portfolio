@@ -33,6 +33,8 @@ function Contact() {
                 <div>
                     <label htmlFor="name">Name</label>
                     <input
+                        className="form-input"
+                        placeholder=""
                         type="text"
                         id="name"
                         name="name"
@@ -45,6 +47,7 @@ function Contact() {
                 <div>
                     <label htmlFor="email">Email</label>
                     <input
+                        className="form-input"
                         type="email"
                         id="email"
                         name="email"
@@ -57,6 +60,7 @@ function Contact() {
                 <div>
                     <label htmlFor="message">Message</label>
                     <textarea
+                        className="form-input"                        
                         id="message"
                         name="message"
                         value={form.message}

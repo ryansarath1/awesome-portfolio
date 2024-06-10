@@ -1,9 +1,11 @@
-import blockBusterBeats from '../assets/blockbuster-beat2.png'
+import blockBusterBeats from '../assets/blockbuster-beats2.png'
+import reeltalk from '../assets/reeltalk.png'
 
 
 function Work() {
     const projects = [
         { title: 'BlockBuster Beats', imageUrl: blockBusterBeats, liveLink: 'https://sdavila210.github.io/blockbuster-beats/', repoLink: 'https://github.com/sdavila210/blockbuster-beats' },
+        { title: 'Reel Talk', imageUrl: reeltalk, liveLink: 'https://reel-talk-dm-ed0ac511af21.herokuapp.com/', repoLink: 'https://github.com/DannyM15/ReelTalk?tab=readme-ov-file' },
     ];
 
     return (

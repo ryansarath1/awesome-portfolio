@@ -19,6 +19,7 @@
   .header h1 {
     color: #000000;
     margin: 0;
+    font-family: cursive;
   }
   
   /*Navigation styles*/
@@ -34,7 +35,7 @@
   }
   
   #nav ul li button {
-    color: rgb(234, 142, 158);
+    color: blue;
     background-color: transparent;
     border: none;
     cursor: pointer;
@@ -42,7 +43,7 @@
   }
   
   #nav ul li button:hover {
-    color: #ff4d8f;
+    color: black;
   }
   
   /*section styles*/
@@ -64,13 +65,14 @@
   
   .article {
     text-align: center;
+    color: #f9f9f9;
     /* Ensure all content inside article is centered */
   }
   
   .photo {
     display: block;
     margin: 0 auto;
-    width: 200px;
+    width: 300px;
     height: auto;
     border-radius: 15px;
   }
@@ -127,13 +129,13 @@
   }
   
   .footer a {
-    color: rgb(234, 142, 158);
+    color: blue;
     text-decoration: none;
     transition: color 0.3s ease;
   }
   
   .footer a:hover {
-    color: #ff4d8f;
+    color: black;
   }
   
   #footernav ul li {

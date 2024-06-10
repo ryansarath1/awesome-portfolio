@@ -3,7 +3,7 @@ import About from './About';
 import Work from './Work';
 import Contact from './Contact';
 import Resume from './Resume';
-import ryanImage from '../assets/ryan.png'
+import ryanImage from '../assets/ryan.jpg'
 import blockBusterBeats from '../assets/blockbuster-beats2.png';
 
 function Portfolio() {
