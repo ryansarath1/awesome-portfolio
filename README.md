@@ -2,14 +2,6 @@
 
 Welcome to my personal portfolio built with React! This portfolio showcases my projects and skills. Below you'll find instructions on how to set up, run, and contribute to this project.
 
-Table of Contents
-Installation
-Usage
-Project Structure
-Features
-Contributing
-License
-Contact
 
 ## User Story
 
